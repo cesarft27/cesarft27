@@ -1,5 +1,6 @@
 
 <h2 align="left">👋!Hello! I'm Cesar! Full Stack Developer</h2>
+<img src="https://giphy.com/embed/bGgsc5mWoryfgKBx1u" width="150" height="150" />
 <h1 align="left">I'm Cesar Forero, Fullstack Developer from  Bogota,Colombia, currently living in Lima,Perú</h1>
 
 ###
