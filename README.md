@@ -2,7 +2,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-Construyo aplicaciones web de extremo a extremo, combinando interfaces modernas y cuidadas en el frontend con APIs, lógica de negocio y bases de datos robustas en el backend. Me interesa transformar necesidades reales en soluciones digitales funcionales, escalables y fáciles de mantener.
+*Construyo aplicaciones web de extremo a extremo, combinando interfaces modernas y cuidadas en el frontend con APIs, lógica de negocio y bases de datos robustas en el backend. Me interesa transformar necesidades reales en soluciones digitales funcionales, escalables y fáciles de mantener.*
 </p>
 
 ---
