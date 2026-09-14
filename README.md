@@ -2,19 +2,19 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center">
-  Construyo aplicaciones web de extremo a extremo: desde interfaces cuidadas en el frontend
-  hasta APIs y bases de datos robustas en el backend.
+Construyo aplicaciones web de extremo a extremo, combinando interfaces modernas y cuidadas en el frontend con APIs, lógica de negocio y bases de datos robustas en el backend. Me interesa transformar necesidades reales en soluciones digitales funcionales, escalables y fáciles de mantener.
 </p>
 
 ---
 
 ### 🚀 Sobre mí
 
-- 💻 Desarrollador **Full Stack**, cómodo trabajando tanto en frontend como en backend.
-- 🌱 Enfocado en construir soluciones prácticas usando **JavaScript / React / Node.js**.
-- 🐳 Con experiencia contenerizando aplicaciones con **Docker**.
-- 🗄️ Trabajo con bases de datos relacionales como **Oracle** y **PostgreSQL**.
-- 📫 Siempre abierto a nuevos retos y colaboraciones.
+- 💻 *Desarrollador **Full Stack**, con experiencia trabajando tanto en frontend como en backend y participando en todo el ciclo de desarrollo de una aplicación.*
+- ⚛️ *Enfocado en construir soluciones prácticas y modernas utilizando **JavaScript / React / Node.js**.*
+- 🐳 *Experiencia conteniendo y desplegando aplicaciones con **Docker**, incorporando buenas prácticas para facilitar su ejecución y mantenimiento.*
+- 🗄️ *Experiencia trabajando con bases de datos relacionales, principalmente **Oracle** y **PostgreSQL**.*
+- 🔌 *Interesado en el desarrollo de APIs, integraciones y automatizaciones que permitan conectar sistemas y optimizar procesos.*
+- 🚀 *Siempre explorando nuevas tecnologías y buscando nuevos retos donde pueda crear, aprender y aportar valor.*
 
 ---
 
